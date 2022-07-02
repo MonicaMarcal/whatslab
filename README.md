@@ -4,7 +4,7 @@
  
 ### Caracteristicas do projeto: utilizando o método *MVP:*
 
- #### ** Tela Lista de mensagem**:
+ #### **Tela Lista de mensagem**:
  - Cada mensagem deve possuir um remetente (ou seja, um usuário que enviou) e o conteúdo em si.
  - No layout, eles devem ficar assim:
     ```
