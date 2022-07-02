@@ -4,14 +4,14 @@
  
 ### Caracteristicas do projeto: utilizando o método *MVP para realizar o projeto:*
 
- Tela **Lista de mensagem:**
+ **Tela Lista de mensagem:**
     - Cada mensagem deve possuir um remetente (ou seja, um usuário que enviou) e o conteúdo em si.
     - No layout, eles devem ficar assim:
-    ```bash
+    ```
      nome do remente: conteúdo
      ```
 
- Tela **Envio de mensagem:**
+ **Tela Envio de mensagem:**
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
     
