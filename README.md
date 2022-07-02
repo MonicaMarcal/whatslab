@@ -15,9 +15,9 @@ O escopo deste *MVP é:*
 
 
 ## Tecnologias
-🔗 CSS - "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
-🔗 HTML - "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
-🔗 React - "https://pt-br.reactjs.org/".
+- CSS - "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+- HTML - "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+- React - "https://pt-br.reactjs.org/".
 
 ## Como rodar
 1. Clonar o projeto: 
