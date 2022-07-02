@@ -5,9 +5,7 @@ O escopo deste *MVP é:*
 
 1. **Lista de mensagem:**
     - Cada mensagem deve possuir um remetente (ou seja, um usuário que enviou) e o conteúdo em si.
-    - No layout, eles devem ficar assim:
-
-                        nome do remente: conteúdo
+    - No layout, eles devem ficar assim: nome do remente: conteúdo
 
 2. **Envio de mensagem:**
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
@@ -33,7 +31,7 @@ npm install
 3. Rodar
 ```bash
 npm run start
-
+```
 4. Acessará no seu navegador
 ```bash
 https://localhost:3000
